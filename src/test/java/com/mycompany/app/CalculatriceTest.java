@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 import static org.junit.Assert.assertEquals;
-import com.master.calculpp.Calculatrice;
+import com.mycompany.app.Calculatrice;
 import org.junit.Test;
 
 /**
